@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in Node.js applications: unhandled promise rejections.  Unhandled promise rejections can lead to application crashes or unexpected behavior without any obvious error messages. The solution includes a catch block to handle the promise rejection and log the error.
